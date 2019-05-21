@@ -1,4 +1,5 @@
 entity Gerant {
+    nom String,
     prenom String required,
     email String,
     telephone String
