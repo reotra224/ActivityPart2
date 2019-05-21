@@ -9,7 +9,7 @@
         "baseName": "gateway",
         "packageName": "gn.traore.memoire",
         "packageFolder": "gn/traore/memoire",
-        "serverPort": "9999",
+        "serverPort": "8080",
         "authenticationType": "jwt",
         "cacheProvider": "hazelcast",
         "enableHibernateCache": true,
