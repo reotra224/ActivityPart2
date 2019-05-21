@@ -1,0 +1,11 @@
+entity Gerant {
+    prenom String required,
+    email String,
+    telephone String
+}
+entity Agent {
+    nom String,
+    prenom String,
+    email String,
+    telephone String
+}
