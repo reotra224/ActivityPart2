@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "gn.traore.memoire",
+            "nativeLanguage": "fr"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "gateway",
+        "baseName": "gateway",
+        "packageName": "gn.traore.memoire",
+        "packageFolder": "gn/traore/memoire",
+        "serverPort": "9999",
+        "authenticationType": "jwt",
+        "cacheProvider": "hazelcast",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": "elasticsearch",
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "ZTY4Yzg0Y2Q2OGE4NDdjOGVhNWEzMDU1NTVjZWFjNmU0NWRhMmJjNDQ1MThiMDJjOGI2YzM0ODllNjI2NWNlOTc3NmNjNWMxZWMyZjgwNjIyMDFjNmU1YzY2NGJlZDI0ODg3YjczYmZiOWNkNTk0MTUxMWY0ZjMzNTY1YzBjYWY=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "fr",
+        "languages": ["fr"]
+    }
+}
